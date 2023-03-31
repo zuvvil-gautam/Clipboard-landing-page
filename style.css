@@ -81,10 +81,20 @@ img{
     box-shadow:0 4px hsl(170, 60%, 33%);
 
 }
+.btn-primary:hover{
+    color:#fff;
+    background-color:	hsl(180, 100%, 25%);
+    
+}
 
 .btn-secondary{
     background-color: var(--light-blue);
     box-shadow:0 4px hsl(233, 64%, 51%)
+}
+
+.btn-secondary:hover{
+    background-color:hsl(233, 68%, 45%);
+    color: #fff;
 }
 
 footer{
