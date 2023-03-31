@@ -74,6 +74,8 @@ img{
     border-radius:60px;
     margin:15px 5px;
     color:#fff;
+    cursor:pointer;
+    transition: all .4s ease-in-out;
 }
 
 .btn-primary{
